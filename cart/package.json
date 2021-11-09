@@ -1,5 +1,5 @@
 {
-  "name": "products",
+  "name": "cart",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "external-remotes-plugin": "^1.0.0",
+    "faker": "^5.5.3",
     "html-webpack-plugin": "^5.1.0",
     "webpack": "^5.62.1",
     "webpack-cli": "^4.9.1",
